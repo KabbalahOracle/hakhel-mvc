@@ -1,4 +1,4 @@
-# Kangaroojs
+# hakhel-mvc
 
 Simple skeleton for MVC express apps (nodejs)
 
